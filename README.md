@@ -9,7 +9,9 @@ Respuesta.
 2. ¿Qué es un sitio web?
 Respuesta.
 3. ¿Qué es una aplicación web?
-Respuesta.
+  
+  Respuesta.
 4. ¿Qué es una herramienta ofimática?
-Es una aplicación (en local o en linea) que permite editar un texto, una hoja de cálculo, una
+  
+  Es una aplicación (en local o en linea) que permite editar un texto, una hoja de cálculo, una
 presentación
