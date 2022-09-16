@@ -4,7 +4,7 @@ Practica 2
 ###**Evaluación Inicial**
 
 Lista ordenada
-1. ¿Qué es una página web?
+1. ¿Qué es una página web?  
 Es un sitio con información y datos acerca de alguna temática en particular a la que se puede acceder desde un buscador en internet y está publicada por una persona o empresa.
 2. ¿Qué es un sitio web?
 Es un documento accesible desde cualquier navegador con acceso a internet, y que puede incluir audio, vídeo, texto y sus diferentes combinaciones. 
